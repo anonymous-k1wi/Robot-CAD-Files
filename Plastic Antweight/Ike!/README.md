@@ -1,4 +1,5 @@
 # Ike!
+<img width="1371" height="914" alt="image" src="https://github.com/user-attachments/assets/fc75bd90-7b87-456c-8146-4c297f121d51" />
 
 This is a toob-style robot designed for plastic antweight competitions.  Movement is caused via torque reactions of the wheels, which also drives the full-body drum.
 
