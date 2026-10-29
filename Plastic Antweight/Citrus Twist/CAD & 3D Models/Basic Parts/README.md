@@ -9,4 +9,4 @@
 | drive_gear.stp | 1x | 6 | 3 | Rectilinear | 40% | Yes | 
 | idler_gear.stp | 1x | 3 | 3 | Rectilinear | 40% | No | 
 | wheel_hub.stp | 2x | 3 | 3 | Honeycomb | 10% | No | 
-| stabilizers.stp | 2x | 6 | 3 | Rectilinear | 40% | No | 
+| stabilizers.stp | 2x | 6 | 3 | Rectilinear | 40% | No | 2g |
