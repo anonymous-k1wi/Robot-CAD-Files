@@ -10,3 +10,4 @@
 | idler_gear.stp | 1x | 3 | 3 | Rectilinear | 40% | No | 3g | 
 | wheel_hub.stp | 2x | 3 | 3 | Honeycomb | 10% | No | 5g |
 | stabilizers.stp | 2x | 6 | 3 | Rectilinear | 40% | No | 2g |
+| weapon_lock.stp | 1x | 4 | 3 | Rectilinear | 10% | No | NA | 
