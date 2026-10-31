@@ -3,3 +3,5 @@ This design was made and submitted to the [Repeat Robotics Open PLAnt Challenge]
 
 <img width="1397" height="1067" alt="image" src="https://github.com/user-attachments/assets/9556043b-e871-4446-af67-4d3641517d89" />
 
+To get started, head to the CAD & 3D Models folder to download
+
