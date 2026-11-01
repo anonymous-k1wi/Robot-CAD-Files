@@ -1,6 +1,9 @@
 # Citrus Twist Base Parts
 
 ## Recommended Print Settings
+
+The print settings below are general recommended settings, but keep in mind they are intended to keep the robot slightly underweight by roughly ~20-25g.  After you've assembled and wired your first version and weighed the difference to the maximum weight (454g), add extra walls to the weapon ring to use up the remaining weight.  This will make the weapon stronger and hit harder.
+
 | Part | Quantity | Wall Loops | Top/Bottom Layers | Infill Type | Infill % | Supports? | Approx. Weight (g) | 
 | ------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | core_lower.stp | 1x | 2 | 3 | Adaptive Cubic | 10% | No | 56g | 
