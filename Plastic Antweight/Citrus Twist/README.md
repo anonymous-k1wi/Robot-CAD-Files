@@ -3,7 +3,7 @@ This design was made and submitted to the [Repeat Robotics Open PLAnt Challenge]
 
 <img width="1397" height="1067" alt="image" src="https://github.com/user-attachments/assets/9556043b-e871-4446-af67-4d3641517d89" />
 
-To get started, head to the [CAD & 3D Models](https://github.com/anonymous-k1wi/Robot-CAD-Files/tree/main/Plastic%20Antweight/Citrus%20Twist/CAD%20%26%203D%20Models) folder to download ready-to-go .3mf files (or individual .step files to setup and edit yourself), view the full CAD assembly, and download the assembly manual.  Get building and have fun!
+To get started, head to the [CAD & 3D Models](https://github.com/anonymous-k1wi/Robot-CAD-Files/tree/main/Plastic%20Antweight/Citrus%20Twist/CAD%20%26%203D%20Models) folder to download ready-to-go .3mf files (or individual .step files to setup and edit yourself), view the full CAD assembly, and download the [assembly manual](https://github.com/anonymous-k1wi/Robot-CAD-Files/blob/main/Plastic%20Antweight/Citrus%20Twist/Citrus%20Twist%20Assembly%20Manual.pdf).  Get building and have fun!
 
 
 Has this been tested in the real world?  Yes!
