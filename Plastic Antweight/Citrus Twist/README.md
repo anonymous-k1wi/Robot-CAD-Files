@@ -7,6 +7,7 @@ To get started, head to the [CAD & 3D Models](https://github.com/anonymous-k1wi/
 
 
 Has this been tested in the real world?  Yes!
+
 Have you built this robot and want to have it added it to this list?  Make an RCE page and share the link and some pictures!
 
 <img width="500" height="306" alt="DSC07169" src="https://github.com/user-attachments/assets/e52880f8-2b30-4e79-9d17-73141cf73aab" />
