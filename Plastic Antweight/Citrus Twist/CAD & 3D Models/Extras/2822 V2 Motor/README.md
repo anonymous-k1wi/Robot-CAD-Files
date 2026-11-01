@@ -1,0 +1,1 @@
+If you have the older blue RR 2822 V2 motor, these files should be used instead of the main ones.  This is necessary due to the slightly altered mounting pattern for the screws.  All other parts remain the same.
